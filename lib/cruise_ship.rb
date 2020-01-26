@@ -13,6 +13,6 @@ def select_winner(passengers)
     if suite == suite_a &&
       name.start_with?
       ("A") 
-      puts "winner".
+      puts select_winner.
     end
 end
